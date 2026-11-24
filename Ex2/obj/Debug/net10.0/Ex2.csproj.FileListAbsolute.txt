@@ -1,0 +1,14 @@
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\bin\Debug\net10.0\Ex2.exe
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\bin\Debug\net10.0\Ex2.deps.json
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\bin\Debug\net10.0\Ex2.runtimeconfig.json
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\bin\Debug\net10.0\Ex2.dll
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\bin\Debug\net10.0\Ex2.pdb
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\Ex2.AssemblyInfoInputs.cache
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\Ex2.AssemblyInfo.cs
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\Ex2.dll
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\refint\Ex2.dll
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\Ex2.pdb
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\Ex2.genruntimeconfig.cache
+C:\Users\kamil\Documents\Lista-3-Csharp\Ex2\obj\Debug\net10.0\ref\Ex2.dll
